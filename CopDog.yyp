@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "3bcf5df5-993c-480f-8c55-5e18cb1e4b9b",
+            "Value": {
+                "id": "0d233599-633d-462e-ac02-49a8b8aa717c",
+                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c20105f-0e2d-461d-b1ed-60b114e7bf63",
             "Value": {
                 "id": "fdccba09-238b-42a6-8ac2-83259799a63c",
@@ -148,6 +156,14 @@
                 "id": "ed8cf936-796c-4845-93d3-57460491c20c",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b66ec00d-2772-46ec-b00f-bae1b8baabf1",
+            "Value": {
+                "id": "c5f42feb-6120-452e-8052-3689f8637fe0",
+                "resourcePath": "objects\\obj_CopDog2\\obj_CopDog2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
